@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Hello Bhai 😄</h1>
+<h1>WellCome</h1>
 
 <script src="script.js"></script>
 </body>
