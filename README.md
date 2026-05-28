@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>WellCome to Github</h1>
+<h1>WelCome to Github</h1>
 
 <script src="script.js"></script>
 </body>
